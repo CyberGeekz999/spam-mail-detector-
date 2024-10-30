@@ -1,1 +1,1 @@
-A free Email detector which will help you classify you emails which are legit and which are Ham, or Spam a simple project made by me in python. Hope you will love the exprience will my tool stay connected to enjoy future tools!!!
+A free Email detector which will help you classify your emails which are legit and which are Ham, or Spam a simple project made by me in python. Hope you will love the exprience with my tool stay connected to enjoy future tools!!!
